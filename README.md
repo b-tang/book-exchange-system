@@ -44,3 +44,13 @@ CS 3337 - Software Engineering Final Project
 3. Book Favorites Lists
     - Branden Zamora
     - Jonathan
+
+## Due Dates
+First Draft Due:
+- Nov 28.
+Second Draft Due:
+- Nov 30.
+Final Draft Due:
+- Dec 7.
+All Document Due:
+- Dec 7.
