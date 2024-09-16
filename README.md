@@ -28,7 +28,7 @@ CS 3337 - Software Engineering Final Project
 - Branden Zamora
 
 ## Tasks Board
-**Main Tasks**
+### Main Tasks
 1. About Us
 2. Search Option (Book Search Bar)
 3. Reformat
