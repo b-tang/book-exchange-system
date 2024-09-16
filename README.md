@@ -1,11 +1,14 @@
 # SWE-Project
 CS 3337 - Software Engineering Final Project
 
-## Tools & Libraries
-- **PyCharm** - IDE for Web Development
-- **Django** - Web Framework
+## Table of Contents
+- [Objectives](#objectives)
+- [Tools & Libraries](#tools-and-libraries)
+- [Contributors](#contributors)
+- [Tasks Board](#tasks-board)
+- [Due Dates](#due-dates)
 
-## Objective
+## Objectives
 1. SDLC Knowledge: Understand the software development lifecycle stages.
 
 2. Design Principles: Learn scalable, maintainable software design.
@@ -21,6 +24,10 @@ CS 3337 - Software Engineering Final Project
 7. Project Management: Manage timelines and client requirements.
 
 8. Stay Updated: Learn and adopt new technologies and practices.
+
+## Tools and Libraries
+- **PyCharm** - IDE for Web Development
+- **Django** - Web Framework
 
 ## Contributors
 ### Teachers
