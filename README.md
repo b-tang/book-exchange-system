@@ -49,11 +49,11 @@ CS 3337 - Software Engineering Final Project
 First Draft Due:
 - Nov 28.
 
-<br>Second Draft Due:
+Second Draft Due:
 - Nov 30.
 
-<br>Final Draft Due:
+Final Draft Due:
 - Dec 7.
 
-<br>All Document Due:
+All Document Due:
 - Dec 7.
