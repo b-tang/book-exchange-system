@@ -2,8 +2,8 @@
 CS 3337 - Software Engineering Final Project
 
 ## Tools & Libraries
-- PyCharm - IDE for Web Development
-- Django - Web Framework
+- **PyCharm** - IDE for Web Development
+- **Django** - Web Framework
 
 ## Objective
 1. SDLC Knowledge: Understand the software development lifecycle stages.
@@ -16,10 +16,10 @@ CS 3337 - Software Engineering Final Project
 8. Stay Updated: Learn and adopt new technologies and practices.
 
 ## Contributors
-**Teachers**
+### Teachers
 - Dr. Jiang Guo
 
-**Team Members**
+### Team Members
 - Brian Tang
 - Jonathan Tirado
 - Theodore Tran
@@ -34,7 +34,7 @@ CS 3337 - Software Engineering Final Project
 3. Reformat
 4. Navbar
 
-**Feature Tasks**
+### Feature Tasks
 1. Book Comments
     - Theodore Tran
     - Brian Tang 
