@@ -1,5 +1,5 @@
 # SWE-Project
-CS 3337 - Software Engineering Final Project
+CS 3337 - Software Engineering Project
 
 ## Table of Contents
 - [Objectives](#objectives)
