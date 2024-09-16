@@ -36,11 +36,11 @@ CS 3337 - Software Engineering Final Project
 
 ### Feature Tasks
 1. Book Comments
-- Theodore Tran
-- Brian Tang 
+    - Theodore Tran
+    - Brian Tang 
 2. Book Ratings
-- Angy Xegil Ujpan
-- Joanne Wu
+    - Angy Xegil Ujpan
+    - Joanne Wu
 3. Book Favorites Lists
-- Branden Zamora
-- Jonathan
+    - Branden Zamora
+    - Jonathan
