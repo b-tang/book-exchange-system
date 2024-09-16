@@ -7,12 +7,19 @@ CS 3337 - Software Engineering Final Project
 
 ## Objective
 1. SDLC Knowledge: Understand the software development lifecycle stages.
+
 2. Design Principles: Learn scalable, maintainable software design.
+
 3. Problem-Solving: Develop analytical skills for coding challenges.
+
 4. Programming Skills: Master relevant programming languages.
+
 5. Teamwork: Collaborate using tools like Git and Agile methods.
+
 6. Quality Assurance: Test and debug to ensure high-quality software.
+
 7. Project Management: Manage timelines and client requirements.
+
 8. Stay Updated: Learn and adopt new technologies and practices.
 
 ## Contributors
