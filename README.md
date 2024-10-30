@@ -5,7 +5,7 @@ Implemented a login page, adding books (name, description, etc), searching index
 
 ## Table of Contents
 - [Objectives](#objectives)
-- [Tools & Libraries](#tools-and-libraries)
+- [Tools and Libraries](#tools-and-libraries)
 - [Contributors](#contributors)
 - [Tasks Board](#tasks-board)
 - [Due Dates](#due-dates)
