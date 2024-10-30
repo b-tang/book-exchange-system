@@ -1,5 +1,5 @@
 # Book Exchange System
-The book exchange system is a software engineering course project where we learn about the frontend and backend of a website.
+The book exchange system is a CS 3337 software engineering course project where we learn about the frontend and backend of a website.
 
 Implemented a login page, adding books (name, description, etc), searching indexes (book name, etc), adding comments, and reviews.
 
