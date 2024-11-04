@@ -54,9 +54,11 @@ Implemented a login page, adding books (name, description, etc), searching index
 1. Book Comments
     - Theodore Tran
     - Brian Tang 
+
 2. Book Ratings
     - Angy Xegil Ujpan
     - Joanne Wu
+    
 3. Book Favorites Lists
     - Branden Zamora
     - Jonathan
@@ -73,3 +75,9 @@ Final Draft Due:
 
 All Document Due:
 - Dec 7.
+
+## License
+This project is released into the public domain. This repository is for educational purposes as part of the CS 4555 course at Cal State LA.
+
+### Unlicense
+This project is licensed under [The Unlicense](https://unlicense.org/), which allows for unrestricted use, distribution, and modification.
